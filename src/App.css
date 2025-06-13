@@ -1,0 +1,9 @@
+body{
+  background-color: whitesmoke !important;
+}
+.zoom-img{
+  transition: transform 0.2s ease-in-out;
+}
+.zoom-img:hover{
+transform: scale(0.9);
+}
