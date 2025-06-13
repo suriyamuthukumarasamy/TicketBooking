@@ -10,8 +10,8 @@ const LogIn = ({ login }) => {
   const navigate = useNavigate();
 
   const user = {
-    email: "suriyamuthukumarasamy@gmail.com",
-    password: "1234567",
+    email: "test@gmail.com",
+    password: "12345678",
   };
 
   const handleSubmit = (e) => {
